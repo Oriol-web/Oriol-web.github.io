@@ -25,8 +25,8 @@ Top 5  guitarra s  emblemáticas
 `public class guitarras{`  
 `public static void main( Strings args [ ] { )`  
 `System.out.print("Bienvenid@ al  mundo de las guitarras eléctricas");`  
-`  }`  
-`}`
+`   }`  
+`  }`
 
 #### Enlace a la página referencias.md  
 [aquí]: https://github.com/Oriol-web/Oriol-web.github.io/blob/main/referencias.md
