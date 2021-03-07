@@ -1,6 +1,6 @@
 # Guitarras Eléctricas
 ##  Guitarras Emblemáticas
-Top 5  guitarra s  emblemáticas
+### Top 5 guitarras emblemáticas
 
 1. Fender Stratocasrter [enlace en linea](https://es.wikipedia.org/wiki/Fender_Stratocaster)
 2. Gibson Les Paul [enlace en linea](https://es.wikipedia.org/wiki/Gibson_Les_Paul)
