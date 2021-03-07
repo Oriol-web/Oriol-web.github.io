@@ -29,6 +29,5 @@ Top 5  guitarra s  emblemáticas
 ` } `
 
 #### Enlace a la página referencias.md  
-[aquí]: https://github.com/Oriol-web/Oriol-web.github.io/blob/main/referencias.md
-
+[aquí]: https://oriol-web.github.io/Referencias.github.io/
 Más información pulse [aquí]
