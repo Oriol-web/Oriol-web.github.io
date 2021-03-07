@@ -10,11 +10,16 @@ Top 5  guitarra s  emblemáticas
 
 >*“Quiero hacer una música tan perfecta que se filtre a través del cuerpo y sea capaz de curar cualquier enfermedad”. - **Jimmy Hendrix***
 
-![TextoAlternativo](fender.jpg) [enlace en linea](https://shop.fender.com/es-ES/start)
-![TextoAlternativo](Gibsong.jpg) [enlace en linea](https://www.gibson.com/)
-![TextoAlternativo](JSg.jpg) [enlace en linea](https://www.ibanez.com/eu/)
-![TextoAlternativo](Gretschg.jpg) [enlace en linea](https://www.gretschguitars.com/)
-![TextoAlternativo](Deang.jpg) [enlace en linea](https://www.deanguitars.com/)
+![TextoAlternativo](fender.jpg) 
+[enlace en linea](https://shop.fender.com/es-ES/start)
+![TextoAlternativo](Gibsong.jpg) 
+[enlace en linea](https://www.gibson.com/)
+![TextoAlternativo](JSg.jpg) 
+[enlace en linea](https://www.ibanez.com/eu/)
+![TextoAlternativo](Gretschg.jpg) 
+[enlace en linea](https://www.gretschguitars.com/)
+![TextoAlternativo](Deang.jpg) 
+[enlace en linea](https://www.deanguitars.com/)
 
 ### Cógigo de lenguaje JAVA
 
@@ -24,6 +29,6 @@ Top 5  guitarra s  emblemáticas
 
 `System.out.print("Bienvenid@ al mundo de las guitarras eléctricas");`
 
-` }`
+`}`
 
 `}`
