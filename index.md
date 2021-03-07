@@ -23,10 +23,10 @@ Top 5  guitarra s  emblemáticas
 ### Cógigo de lenguaje JAVA
 
 `public class guitarras{`  
-`public static void main( Strings args [ ] { )`  
+`public static void main(Strings args []{)`  
 `System.out.print("Bienvenid@ al  mundo de las guitarras eléctricas");`  
-` }`  
-` } `
+`}`  
+`}`
 
 #### Enlace a la página referencias.md  
 [aquí]: https://oriol-web.github.io/Referencias.github.io/
