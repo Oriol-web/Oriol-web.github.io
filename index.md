@@ -20,7 +20,7 @@ Top 5  guitarra s  emblemáticas
 
 ![TextoAlternativo](Deang.jpg)  [enlace en linea](https://www.deanguitars.com/)
 
-### Cógigo de lenguaje JAVA
+### Código de lenguaje JAVA
 
 `public class guitarras{`  
 `public static void main(Strings args []{)`  
